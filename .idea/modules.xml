@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TartanHacks/TartanHacks.iml" filepath="$PROJECT_DIR$/TartanHacks/TartanHacks.iml" />
       <module fileurl="file://$PROJECT_DIR$/TartanHacksProject.iml" filepath="$PROJECT_DIR$/TartanHacksProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebook/facebook1.iml" filepath="$PROJECT_DIR$/facebook/facebook1.iml" />
     </modules>
   </component>
 </project>
